@@ -8,8 +8,6 @@ import cmath
 import random
 
 #----------------------------------------------------------------
-# hello worlds
-
 
 # Question 1 & 2 & 3
 
